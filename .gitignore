@@ -1,0 +1,4 @@
+!.gitignore
+docker/vm/*
+!docker/vm/Vagrantfile
+docker/src/ubuntufs*
